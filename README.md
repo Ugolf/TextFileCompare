@@ -1,3 +1,3 @@
 TextFileCompare
 ===============
-![Alt text](img/main.jpg?raw=true "Main window")
+![Alt text](/img/main.png?raw=true "Main window")
